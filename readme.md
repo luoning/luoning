@@ -1,44 +1,38 @@
 # ✨ Hi there, I'm Luoning! 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Role-Product%20Manager-009688?style=flat-square&logo=gitbook&logoColor=white" alt="Role" />
-  <img src="https://img.shields.io/badge/MBTI-INTJ-ff5722?style=flat-square" alt="MBTI" />
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Language" />
+  <img src="https://img.shields.io/badge/Role-Product%20Manager%20%2F%20Architect-24292e?style=for-the-badge&logo=gitbook" alt="Role" />
+  <img src="https://img.shields.io/badge/MBTI-INTJ--T-24292e?style=for-the-badge&logo=shadow" alt="MBTI" />
+  <img src="https://img.shields.io/badge/Core-Python-24292e?style=for-the-badge&logo=python&logoColor=3776AB" alt="Core" />
 </p>
 
----
-
-## 🧠 关于我 | About Me
-
-我是一名主导系统和逻辑设计的**产品经理/架构策划者**。平时热衷于做长期战略和系统重构，主要用 **Python** 解决日常的自动化和数据分析任务。
-
-- **工作现场**: 讨厌无意义的开会和画饼。比起虚无的 PPT，我更看重产品的底层架构与逻辑闭环，喜欢用 Python 写原型来落地想法。
-- **思维模式**: 典型的 INTJ（战略家）。习惯用严密的逻辑和长远的视角审视系统，追求产品的秩序感与极致的效率。
+> **"If it can be automated by a script, it should never exist as a status meeting."**
+> 我是一个习惯用系统架构思维做规划的产品经理。比起虚无的 PPT 画饼，我更看重产品的底层架构逻辑，以及如何用 Python 解决低效问题。
 
 ---
 
-## 🛠️ 我的技能栈 | Skill Dependencies
+## 🛠️ 我的系统依赖 | Tech & Stack
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>💡 产品与逻辑</h4>
-      <ul>
-        <li>系统架构设计与核心逻辑抽象</li>
-        <li>长期战略规划与数据驱动决策</li>
-        <li>智能体工作流设计 (Agentic Workflow)</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h4>🐍 编程与自动化</h4>
-      <ul>
-        <li><strong>Python</strong> (Pandas / NumPy / Requests)</li>
-        <li><strong>Agent 框架</strong> (LangChain / Autogen)</li>
-        <li><strong>生产力工具</strong> (Git / VS Code / Markdown)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</p>
+
+```python
+class Luoning(ProductManager):
+    def __init__(self):
+        self.personality = "INTJ-T"
+        self.focus_areas = [
+            "Requirement Abstraction",  # 需求抽象与逻辑解构
+            "Agentic Workflow Design",   # 智能体工作流设计
+            "System Architecture"        # 系统架构设计
+        ]
+        self.modus_operandi = "Write Python prototypes instead of drawing slides."
+```
 
 ---
 
@@ -46,26 +40,29 @@
 
 ### 🤖 [agent-skills](https://github.com/luoning/agent-skills)
 > **专为编码智能体（Coding Agents）打造的物理沙盒与美学治理套件**
-* AI 助手在自动编写代码时容易产生破坏或者写出杂乱的界面。
-* 这个项目给它们建了个**“安全笼子”**，并约束它们生成代码的美学底线。
+* **Why**: AI 在写代码时如果不加约束，很容易产生系统破坏或者写出极丑的交互。
+* **Solution**: 提供隔离的物理执行环境，并在底层定义并治理 Agent 产出代码的美学下限。
+* **Tags**: `Python` `Sandbox` `AI-Agents` `Aesthetics`
 
 ### 🎮 [arcade](https://github.com/luoning/arcade)
 > **手机小游戏合集**
-* 闲暇时间的摸鱼产物。纯粹觉得好玩就写了，没有复杂的套路，开心就好。
+* **Why**: 下班后打发时间的无聊消遣。
+* **Solution**: 纯粹觉得好玩就写了，拒绝任何繁杂的商业套路和变现逻辑。
+* **Tags**: `Game` `Casual` `Side-Project`
 
 ---
 
-## 📊 状态看板 | Telemetry
+## 📊 系统遥测指标 | Telemetry
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=luoning&show_icons=true&theme=transparent&hide_border=true&title_color=009688&icon_color=00796b&text_color=4f5b66" alt="luoning's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luoning&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=79b8ff&text_color=a9b1d6" alt="luoning's github stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoning&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=a9b1d6" alt="luoning's top languages" />
 </p>
 
 ---
 
-## 📬 找我聊聊 | Connect With Me
-
-如果你想讨论 Agent 的调教心得，或者聊点有趣的逻辑，随时可以联系我：
+## 📬 建立 Socket 连接 | Connect
 
 ```json
 {
