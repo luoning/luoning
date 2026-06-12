@@ -2,6 +2,8 @@
 
 > "I don't define myself. I just build."
 
+`#product-architecture` `#python-automation` `#ai-agents` `#casual-games`
+
 ---
 
 ### About
