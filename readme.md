@@ -2,7 +2,7 @@
 
 > "I don't define myself. I just build."
 
-`#product-architecture` `#python-automation` `#ai-agents` `#casual-games`
+`#product-architecture` `#automation` `#ai-agents` `#casual-games`
 
 ---
 
