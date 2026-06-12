@@ -13,10 +13,10 @@ A builder's log in the transitional epoch. I focus on solving concrete problems 
 
 ### Core Sandbox
 * **[agent-skills](https://github.com/luoning/agent-skills)** - A physical sandbox and aesthetic governance suite designed to isolate and regulate coding agents. Keeping the agents safe, secure, and visually restrained.
-* **[future-awesome](https://github.com/luoning/future-awesome)** - An open registry for mapping potential systemic bottlenecks (e.g., model collapse, agent alignment, knowledge continuity) and documenting corresponding engineering solutions, including human-AI collaboration methodologies (*silicon-methodology*).
+* **[future-awesome](https://github.com/luoning/future-awesome)** - An open registry for mapping potential systemic bottlenecks & opportunities (e.g., model collapse, agent alignment, knowledge continuity) and documenting corresponding engineering solutions, including human-AI collaboration methodologies (*silicon-methodology*).
 * **[arcade](https://github.com/luoning/arcade)** - A collection of mobile-friendly casual games built purely for fun, free of monetization loops.
 
 ---
 
-### Socket
+### Connect
 * **Email:** `luonin@gmail.com`
