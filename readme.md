@@ -2,7 +2,7 @@
 
 > "I don't define myself. I just build."
 
-`#product-architecture` `#automation` `#ai-agents` `#casual-games`
+`#product-architecture` `#automation` `#ai-agents` `#future-awesome`
 
 ---
 
@@ -15,9 +15,10 @@ I focus on structuring systems and automating logic. Rather than discussing fram
 ---
 
 ### Projects
-Here are the tools I have built to solve real problems and pass the time:
+Here are the tools I am building to solve real problems and track systemic evolutions:
 
 * **[agent-skills](https://github.com/luoning/agent-skills)** - A physical sandbox and aesthetic governance suite designed to isolate and regulate coding agents.
+* **[future-awesome](https://github.com/luoning/future-awesome)** - A curated registry of future system crises (model collapse, agent alignment issues, physical bottlenecks) and their corresponding technical solutions.
 * **[arcade](https://github.com/luoning/arcade)** - A collection of casual mobile games built purely for fun, free of ad networks or monetization loops.
 
 ---
