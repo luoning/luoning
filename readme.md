@@ -1,80 +1,43 @@
-# sys.profile.luoning
+# 嗨，我是 Luoning 
 
-```yaml
-system:
-  role: Product Manager (Technical / Data-Driven)
-  mbti: INTP-T
-  primary_engine: Python
-  philosophy: "Less talk, more specs. If it can be automated, it should not exist as a meeting."
-```
+一个平时话不多、讨厌无意义开会的产品经理。
+
+比起用 PPT 画大饼，我更喜欢自己用 Python 写个脚本把逻辑跑通。我有点理性的强迫症（INTP-T），喜欢把复杂的业务逻辑拆解得像积木一样清晰，然后用代码去实现自动化。
 
 ---
 
-## 🛠️ System Specs (技术栈与依赖)
+### 🔍 我的日常运行逻辑
 
-```python
-import luoning
-
-# 核心依赖库
-dependencies = {
-    "product_strategy": [
-        "Requirement Abstraction",  # 需求抽象与逻辑解构
-        "Aesthetic Governance",     # 界面与交互的美学治理
-        "Agentic Workflow Design"   # 智能体工作流设计
-    ],
-    "python_stack": [
-        "Data Analysis (Pandas/NumPy)", 
-        "Agent Orchestration (LangChain/Autogen)", 
-        "Scripting & Automation"
-    ],
-    "environments": [
-        "Git", 
-        "VS Code", 
-        "Physical Sandbox"
-    ]
-}
-```
+* **剥离废话**: 讨厌“赋能、闭环”这类黑话。只看核心逻辑，把需求拆到最干净的颗粒度。
+* **自己动手**: 主要写 Python，平时用它做数据清洗、写自动化工具，或者折腾一些 Agent 智能体工作流。自己能跑通的，尽量不麻烦开发兄弟。
+* **物理隔离**: 喜欢折腾沙盒，觉得安全边界和美学底线一样重要。
 
 ---
 
-## 📦 Active Workloads (精选项目)
+### 📦 正在折腾的玩具
 
-### 🤖 [agent-skills](https://github.com/luoning/agent-skills)
+#### 🤖 [agent-skills](https://github.com/luoning/agent-skills)
 > **专为编码智能体（Coding Agents）打造的物理沙盒与美学治理套件**
 
-- **内核**: 隔离的物理执行环境，防范 Agent 弄乱系统。
-- **机制**: 约束 Agent 产出代码的美学底线，确保界面跟垃圾设计划清界限。
+AI 经常放飞自我，甚至写出辣眼睛的界面。所以我给它们搭了个“笼子”（安全隔离沙盒），顺便立规矩，约束它们写代码时的美学下限，让产出更干净。
 
-### 🎮 [arcade](https://github.com/luoning/arcade)
+#### 🎮 [arcade](https://github.com/luoning/arcade)
 > **手机小游戏合集**
 
-- **内核**: 闲暇时间打发无聊的消遣。
+纯粹是下班后打发时间的摸鱼产物。没有复杂的商业逻辑，好玩就行。
 
 ---
 
-## 📊 Telemetry (数据统计)
-
-以下是运行时的系统遥测指标：
-
-```
-+-------------------------------------------------------------------+
-|  GitHub Activity Status                                           |
-|  [||||||||||||||||||||||||||||||||||||||||||||||||||||||||] 100%  |
-+-------------------------------------------------------------------+
-```
+### 📊 运行状态遥测
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=luoning&show_icons=true&theme=transparent&hide_border=true&title_color=cfd8dc&icon_color=90a4ae&text_color=b0bec5" alt="luoning's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luoning&show_icons=true&theme=transparent&hide_border=true&title_color=009688&icon_color=00796b&text_color=4f5b66" alt="luoning's github stats" />
 </p>
 
 ---
 
-## 📬 Socket (如何建立连接)
+### 📬 找我聊天
 
-```json
-{
-  "protocol": "SMTP",
-  "endpoint": "luoning@example.com",
-  "status": "listening_for_clean_logic"
-}
-```
+如果你也有好玩的点子，或者想聊聊怎么调教 Agent，随时给我发邮件：
+- 📧 `luoning@example.com` *(记得换成你的真邮箱)*
+- 💬 顺便说一句，其实我挺好说话的，只要不拉我开没意义的会。
