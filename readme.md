@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Product%20Manager-009688?style=flat-square&logo=gitbook&logoColor=white" alt="Role" />
-  <img src="https://img.shields.io/badge/MBTI-INTP--T-ff5722?style=flat-square" alt="MBTI" />
+  <img src="https://img.shields.io/badge/MBTI-INTJ-ff5722?style=flat-square" alt="MBTI" />
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Language" />
 </p>
 
@@ -10,10 +10,10 @@
 
 ## 🧠 关于我 | About Me
 
-我是一名带有强迫症逻辑的**产品经理**。平时喜欢琢磨系统架构，主要用 **Python** 解决日常的自动化和数据分析任务。
+我是一名主导系统和逻辑设计的**产品经理/架构策划者**。平时热衷于做长期战略和系统重构，主要用 **Python** 解决日常的自动化和数据分析任务。
 
-- **工作现场**: 讨厌无意义的开会。比起在 PPT 里画大饼，我更喜欢把业务流程拆解得清清楚楚，甚至自己动手写个脚本来验证逻辑。
-- **思维模式**: 典型的 INTP。探索事物的本质规律能让我兴奋，热衷于搭系统、定规则、造轮子。
+- **工作现场**: 讨厌无意义的开会和画饼。比起虚无的 PPT，我更看重产品的底层架构与逻辑闭环，喜欢用 Python 写原型来落地想法。
+- **思维模式**: 典型的 INTJ（战略家）。习惯用严密的逻辑和长远的视角审视系统，追求产品的秩序感与极致的效率。
 
 ---
 
@@ -24,8 +24,8 @@
     <td valign="top" width="50%">
       <h4>💡 产品与逻辑</h4>
       <ul>
-        <li>需求解构与核心逻辑抽象</li>
-        <li>数据驱动设计 (Data-Driven PM)</li>
+        <li>系统架构设计与核心逻辑抽象</li>
+        <li>长期战略规划与数据驱动决策</li>
         <li>智能体工作流设计 (Agentic Workflow)</li>
       </ul>
     </td>
