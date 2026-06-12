@@ -1,30 +1,80 @@
-# Luoning
+# sys.profile.luoning
 
-`INTP-T` / 软件工程师。
-
-我不爱说废话。比起复杂的社交和 PPT 汇报，我更愿意花时间把系统和工具的轮子造得更轻快、更符合逻辑。
-
----
-
-### 💻 正在折腾的东西
-
-- **AI 智能体生态**: 琢磨怎么在沙盒里管好那些 AI 智能体，甚至规范它们的美学底线。
-- **好玩的小玩意**: 随手写点游戏打发无聊。
+```yaml
+system:
+  role: Product Manager (Technical / Data-Driven)
+  mbti: INTP-T
+  primary_engine: Python
+  philosophy: "Less talk, more specs. If it can be automated, it should not exist as a meeting."
+```
 
 ---
 
-### 📦 精选项目
+## 🛠️ System Specs (技术栈与依赖)
 
-#### 🤖 [agent-skills](https://github.com/luoning/agent-skills)
-专为编码智能体（Coding Agents）打造的物理沙盒与美学治理套件。
-- **用途**: 提供安全隔离的执行沙盒，约束并指引 Agent 产出高质量的界面与代码。
+```python
+import luoning
 
-#### 🎮 [arcade](https://github.com/luoning/arcade)
-手机小游戏合集。
-- **状态**: 闲暇时的产物，单纯觉得好玩就写了。
+# 核心依赖库
+dependencies = {
+    "product_strategy": [
+        "Requirement Abstraction",  # 需求抽象与逻辑解构
+        "Aesthetic Governance",     # 界面与交互的美学治理
+        "Agentic Workflow Design"   # 智能体工作流设计
+    ],
+    "python_stack": [
+        "Data Analysis (Pandas/NumPy)", 
+        "Agent Orchestration (LangChain/Autogen)", 
+        "Scripting & Automation"
+    ],
+    "environments": [
+        "Git", 
+        "VS Code", 
+        "Physical Sandbox"
+    ]
+}
+```
 
 ---
 
-### 📬 联系
+## 📦 Active Workloads (精选项目)
 
-- 找不到我的话，可以写信：`luoning@example.com` （请替换为你的真实邮箱）
+### 🤖 [agent-skills](https://github.com/luoning/agent-skills)
+> **专为编码智能体（Coding Agents）打造的物理沙盒与美学治理套件**
+
+- **内核**: 隔离的物理执行环境，防范 Agent 弄乱系统。
+- **机制**: 约束 Agent 产出代码的美学底线，确保界面跟垃圾设计划清界限。
+
+### 🎮 [arcade](https://github.com/luoning/arcade)
+> **手机小游戏合集**
+
+- **内核**: 闲暇时间打发无聊的消遣。
+
+---
+
+## 📊 Telemetry (数据统计)
+
+以下是运行时的系统遥测指标：
+
+```
++-------------------------------------------------------------------+
+|  GitHub Activity Status                                           |
+|  [||||||||||||||||||||||||||||||||||||||||||||||||||||||||] 100%  |
++-------------------------------------------------------------------+
+```
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=luoning&show_icons=true&theme=transparent&hide_border=true&title_color=cfd8dc&icon_color=90a4ae&text_color=b0bec5" alt="luoning's github stats" />
+</p>
+
+---
+
+## 📬 Socket (如何建立连接)
+
+```json
+{
+  "protocol": "SMTP",
+  "endpoint": "luoning@example.com",
+  "status": "listening_for_clean_logic"
+}
+```
