@@ -1,73 +1,106 @@
-# ✨ Hi there, I'm Luoning! 
+# 💻 sys.profile.luoning
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Role-Product%20Manager%20%2F%20Architect-24292e?style=for-the-badge&logo=gitbook" alt="Role" />
-  <img src="https://img.shields.io/badge/MBTI-INTJ--T-24292e?style=for-the-badge&logo=shadow" alt="MBTI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MBTI-INTJ--T-24292e?style=for-the-badge" alt="MBTI" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Core-Python-24292e?style=for-the-badge&logo=python&logoColor=3776AB" alt="Core" />
 </p>
 
-> **"If it can be automated by a script, it should never exist as a status meeting."**
-> 我是一个习惯用系统架构思维做规划的产品经理。比起虚无的 PPT 画饼，我更看重产品的底层架构逻辑，以及如何用 Python 解决低效问题。
+<h3 align="center">"If it can be automated by a script, it should never exist as a status meeting."</h3>
 
 ---
 
-## 🛠️ 我的系统依赖 | Tech & Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-</p>
-
-```python
-class Luoning(ProductManager):
-    def __init__(self):
-        self.personality = "INTJ-T"
-        self.focus_areas = [
-            "Requirement Abstraction",  # 需求抽象与逻辑解构
-            "Agentic Workflow Design",   # 智能体工作流设计
-            "System Architecture"        # 系统架构设计
-        ]
-        self.modus_operandi = "Write Python prototypes instead of drawing slides."
-```
-
----
-
-## 🚀 正在折腾的玩具 | Selected Projects
-
-### 🤖 [agent-skills](https://github.com/luoning/agent-skills)
-> **专为编码智能体（Coding Agents）打造的物理沙盒与美学治理套件**
-* **Why**: AI 在写代码时如果不加约束，很容易产生系统破坏或者写出极丑的交互。
-* **Solution**: 提供隔离的物理执行环境，并在底层定义并治理 Agent 产出代码的美学下限。
-* **Tags**: `Python` `Sandbox` `AI-Agents` `Aesthetics`
-
-### 🎮 [arcade](https://github.com/luoning/arcade)
-> **手机小游戏合集**
-* **Why**: 下班后打发时间的无聊消遣。
-* **Solution**: 纯粹觉得好玩就写了，拒绝任何繁杂的商业套路和变现逻辑。
-* **Tags**: `Game` `Casual` `Side-Project`
+<table width="100%">
+  <tr>
+    <!-- 左栏：关于我 -->
+    <td width="50%" valign="top">
+      <h3>🧠 关于我 | About Me</h3>
+      <p>主导系统和逻辑设计的<b>产品经理 / 架构策划者</b>。热衷于长期战略规划与系统重构，习惯用严密的逻辑和长远的视角审视产品。</p>
+      <ul>
+        <li><b>工作现场:</b> 拒绝无意义的开会。比起虚无的画饼，我更看重底层架构逻辑。</li>
+        <li><b>思维模式:</b> 典型的 INTJ 秩序狂。比起拉表格开会，更喜欢自己写 Python 验证想法。</li>
+      </ul>
+    </td>
+    <!-- 右栏：技能栈 -->
+    <td width="50%" valign="top">
+      <h3>🛠️ 系统依赖 | Tech & Stack</h3>
+      <p>主要用 <b>Python</b> 解决低效问题，通过数据分析与自动化脚本实现研发效能翻倍。</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 系统遥测指标 | Telemetry
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=luoning&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=79b8ff&text_color=a9b1d6" alt="luoning's github stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoning&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=a9b1d6" alt="luoning's top languages" />
-</p>
+<table width="100%">
+  <tr>
+    <th colspan="2" align="left"><h3>🚀 正在运行的模块 | Selected Projects</h3></th>
+  </tr>
+  <tr>
+    <!-- 项目 A -->
+    <td width="50%" valign="top">
+      <h4>🤖 <a href="https://github.com/luoning/agent-skills">agent-skills</a></h4>
+      <p><b>编码智能体物理沙盒与美学治理套件</b></p>
+      <ul>
+        <li><b>痛点:</b> AI 在自动写代码时缺乏边界约束，容易破坏系统或产出低质量界面。</li>
+        <li><b>方案:</b> 提供隔离沙盒，强制约束智能体的代码美学下限。</li>
+      </ul>
+      <p><code>Python</code> <code>Sandbox</code> <code>AI-Agents</code> <code>Aesthetics</code></p>
+    </td>
+    <!-- 项目 B -->
+    <td width="50%" valign="top">
+      <h4>🎮 <a href="https://github.com/luoning/arcade">arcade</a></h4>
+      <p><b>手机小游戏合集</b></p>
+      <ul>
+        <li><b>痛点:</b> 下班后的无聊摸鱼时间需要高质量的简单打发。</li>
+        <li><b>方案:</b> 纯粹觉得好玩就写了，零套路、零变现机制。</li>
+      </ul>
+      <p><code>Game</code> <code>Casual</code> <code>Side-Project</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📬 建立 Socket 连接 | Connect
+<table width="100%">
+  <tr>
+    <th colspan="2" align="left"><h3>📊 系统遥测看板 | Telemetry</h3></th>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=luoning&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=79b8ff&text_color=a9b1d6" alt="luoning's github stats" width="95%" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luoning&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=a9b1d6" alt="luoning's top languages" width="95%" />
+    </td>
+  </tr>
+</table>
 
-```json
-{
-  "email": "luoning@example.com",
-  "status": "listening_for_logic",
-  "message": "只要不拉我开没意义的会，我其实挺好说话的 :)"
-}
-```
+---
+
+<table width="100%">
+  <tr>
+    <th align="left"><h3>📬 Socket 连接 | Connect</h3></th>
+  </tr>
+  <tr>
+    <td>
+      <p>如果你想聊聊 Agent 的调教机制，或者有一些有趣的逻辑想要解构，欢迎投递信号：</p>
+      <p>
+        <img src="https://img.shields.io/badge/Email-luoning%40example.com-blue?style=flat-square&logo=gmail" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Status-Listening_for_Logic-success?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
