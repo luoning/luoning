@@ -23,4 +23,4 @@ Here are the tools I have built to solve real problems and pass the time:
 ---
 
 ### Connect
-* **Email:** `luoning@example.com` *(Replace with your actual email)*
+* **Email:** `luonin@gmail.com`
